@@ -1,0 +1,1 @@
+let welcome = "Welcome to my portfolio!";
